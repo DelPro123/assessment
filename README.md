@@ -1,7 +1,6 @@
 <h1>Instruction to run</h1>
-
-<h2>First Run the laravel first:</h2><br/>
 <br/>
+<h2>First Run the laravel first:</h2><br/>
 cd laravel-api<br/>
 php artisan serve<br/>
 
