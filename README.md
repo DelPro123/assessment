@@ -1,9 +1,11 @@
-<h1>First Run the laravel first:</h1><br/>
+<h1>Instruction to run</h1>
+
+<h2>First Run the laravel first:</h2><br/>
 <br/>
 cd laravel-api<br/>
 php artisan serve<br/>
 
-<h1>Second run the react app:</h1><br/>
+<h2>Second run the react app:</h2><br/>
 cd laravel-api<br/>
 cd frontend<br/>
 npm start<br/>
